@@ -2,31 +2,54 @@
 
 > "Turning raw data into actionable insights — one dataset at a time!"  
 
-Gold Medalist in **M.Sc. Computer Science** 🎓 with a passion for **Data Science & Analytics**. I specialize in **Python, SQL, ML, Power BI, Excel**, and love building **interactive dashboards and predictive models** that drive decisions.  
+Gold Medalist in **M.Sc. Computer Science** 🎓 with a passion for **Data Science & Analytics**. I specialize in **Python, SQL, Machine Learning, Power BI, and Excel**, building **interactive dashboards and predictive models** that drive business decisions.  
 
-I enjoy exploring real-world datasets, uncovering hidden patterns, and presenting insights that make an impact.  
+I enjoy exploring **real-world datasets**, uncovering hidden patterns, and presenting **actionable insights**.  
 
+I’m open to **freelance, full-time, or intern opportunities** in **Data Science, Analytics, Python Developer, and Full Stack Python**.  
+ 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming & Analytics:**  
-Python `|` SQL `|` NumPy `|` Pandas `|` Scikit-learn `|` Matplotlib `|` Seaborn
+### 👩‍💻 Programming & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF9900?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-**Data Visualization & Dashboards:**  
-Power BI `|` Excel Dashboards `|` Streamlit `|` Google Sheets Reporting
+### 📊 Data Visualization & Dashboards
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white)
 
-**Machine Learning & Modeling:**  
-Regression `|` Classification `|` Clustering `|` Feature Engineering `|` Model Evaluation
+### 🧠 Machine Learning & Modeling
+![Regression](https://img.shields.io/badge/Regression-F0DB4F?style=for-the-badge)
+![Classification](https://img.shields.io/badge/Classification-FF6F61?style=for-the-badge)
+![Clustering](https://img.shields.io/badge/Clustering-6F42C1?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-4CAF50?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-00BFFF?style=for-the-badge)
 
-**Deep Learning & NLP (Basics):**  
-Keras/TensorFlow `|` Neural Networks `|` Text Preprocessing `|` NLTK
+### 🤖 Deep Learning & NLP (Basics)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-8A2BE2?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-FF4500?style=for-the-badge)
 
-**Tools & Platforms:**  
-Jupyter Notebook `|` VS Code `|` GitHub
+### 🛠 Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Soft Skills:**  
-Critical Thinking `|` Problem Solving `|` Independent & Collaborative Work `|` Presentations
+### 💡 Soft Skills
+![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-FFA500?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF4500?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Collaborative_Work-1E90FF?style=for-the-badge)
+![Presentation](https://img.shields.io/badge/Presentations-8A2BE2?style=for-the-badge)
 
 > 💡 _“Turning data into decisions, insights into action.”_
 
@@ -46,8 +69,9 @@ Critical Thinking `|` Problem Solving `|` Independent & Collaborative Work `|` P
 - Developed **Employee Rewards & Recognition System** using Python, Flask, MySQL, HTML/CSS, JS.  
 - Optimized database queries, improving performance by **30%**.  
 - Implemented secure user authentication & session encryption.  
-- Prepared UML diagrams and technical documentation.  
-[View Certification](https://drive.google.com/file/d/1QvMOGhYy5qykiKBc7qQHKNDens5zokZ7/view?usp=sharing) | [GitHub](https://github.com/Ayesha24banu/Employee-Rewards-and-Reconigtion-system)  
+- Prepared UML diagrams and technical documentation.
+   
+ **GitHub:** [Employee Rewards System](https://github.com/Ayesha24banu/Employee-Rewards-and-Reconigtion-system) | **Certification:** [View Certification](https://drive.google.com/file/d/1QvMOGhYy5qykiKBc7qQHKNDens5zokZ7/view?usp=sharing)  
 
 ---
 
@@ -61,10 +85,9 @@ Critical Thinking `|` Problem Solving `|` Independent & Collaborative Work `|` P
 - XGBoost model with **89% accuracy** + SHAP explainability for fair decision-making.  
 - Dashboards deployed in **Streamlit** for HR insights.
    
-**GitHub:** [View Project on GitHub](https://github.com/Ayesha24banu/HR-Analytics-Employee-Promotion-Prediction)
+**GitHub:** [View Project](https://github.com/Ayesha24banu/HR-Analytics-Employee-Promotion-Prediction)
   
-  🎥 **Project Video:**
-  https://github.com/user-attachments/assets/4f8b4294-297e-4914-b89d-1a1054c9cac8
+🎥 **Project Video:** https://github.com/user-attachments/assets/4f8b4294-297e-4914-b89d-1a1054c9cac8
 
 ### 2. Customer Purchase Behavior Analysis
 **Tools:** Python, Pandas, KMeans, Apriori**  
@@ -74,11 +97,9 @@ Critical Thinking `|` Problem Solving `|` Independent & Collaborative Work `|` P
 - Apriori algorithm for **product bundling insights (>60% confidence)**.  
 - Interactive **Power BI dashboards** for executives.
   
-**Dashboard Preview:** [Customer Behavior Dashboard Video:](https://drive.google.com/file/d/1Jip6S2ppr5XhR7zQi5dREoGPfj3NtdXh/view)
+**Dashboard video:** [Customer Behavior Dashboard Video:](https://drive.google.com/file/d/1Jip6S2ppr5XhR7zQi5dREoGPfj3NtdXh/view) | 🎥 **Project Video:** [Watch Here](https://drive.google.com/file/d/1NLckyX9VrAv5E3ddQYDTrqJXJIr0i5D8/view)
 
-**GitHub:** [View Project on GitHub](https://github.com/Ayesha24banu/Customer-Purchase-Behaviour-Analysis-in-Retail)  
-
-🎥 **Project Video:** [Watch Here](https://drive.google.com/file/d/1NLckyX9VrAv5E3ddQYDTrqJXJIr0i5D8/view)
+**GitHub:** [View Project](https://github.com/Ayesha24banu/Customer-Purchase-Behaviour-Analysis-in-Retail)  
 
 ### 3. Inventory Management Dashboard
 **Tools:** Excel, PivotTables, Charts, Slicers**  
@@ -86,9 +107,26 @@ Critical Thinking `|` Problem Solving `|` Independent & Collaborative Work `|` P
 - Dynamic Excel dashboard tracking **stock, reorder, and supplier performance**.  
 - Enabled **30% faster stock analysis** via interactive dashboards.
   
-🎥 **Dashboard Preview Video:** [Watch Here](https://drive.google.com/file/d/1h5OjxHp9skxU2pllRoIBQV6ZZAvBcKXw/view)  
+🎥 **Dashboard Video:** [Watch Here](https://drive.google.com/file/d/1h5OjxHp9skxU2pllRoIBQV6ZZAvBcKXw/view)  
 
-**GitHub:** [View Project on GitHub](https://github.com/Ayesha24banu/Excel-Inventory-Management-Dashboard)
+**GitHub:** [View Project](https://github.com/Ayesha24banu/Excel-Inventory-Management-Dashboard)
+
+---
+
+## 4. Employee Rewards & Recognition System
+
+**Tools:** Python, Flask, MySQL, HTML/CSS, JS
+**Description:**
+- Developed a secure Rewards & Recognition System for employees.
+- Implemented user authentication, session encryption, and SQL injection prevention.
+- Optimized database queries improving performance by 30%.
+- Prepared UML diagrams & documentation for maintainability.
+
+**GitHub:** [View Project](https://github.com/Ayesha24banu/Employee-Rewards-and-Reconigtion-system)
+
+🎥**Project Video:** [Watch Here](https://drive.google.com/file/d/1F5jvf4m7fw0TtOVI0_PKrItvu4ATS-FQ/view)
+
+**Certification:** [View Certification](https://drive.google.com/file/d/1QvMOGhYy5qykiKBc7qQHKNDens5zokZ7/view?usp=sharing)
 
 ---
 
@@ -117,7 +155,7 @@ Critical Thinking `|` Problem Solving `|` Independent & Collaborative Work `|` P
 
 ## 📫 Let’s Connect
 
-I’m open to **Data Science, Analytics, and BI opportunities**.  
+I’m open to **freelance, full-time, or intern opportunities** in **Data Science, Analytics, Python Developer, and Full Stack Python**.  
 Feel free to explore my projects, certificates, and dashboards above.  
 
 📬 **Email:** ayesha24banu@gmail.com  
