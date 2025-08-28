@@ -79,6 +79,7 @@ I’m open to **freelance, full-time, or intern opportunities** in **Data Scienc
 
 ### 1. HR Analytics: Employee Promotion Prediction
 **Tools:** Python, Pandas, ML, Streamlit**  
+
 **Description:**
 - Predictive model for **50k+ employees**, improving transparency in promotions.  
 - Engineered features (age/tenure buckets, performance flags) & preprocessed data.  
@@ -89,8 +90,10 @@ I’m open to **freelance, full-time, or intern opportunities** in **Data Scienc
   
 🎥 **Project Video:** https://github.com/user-attachments/assets/4f8b4294-297e-4914-b89d-1a1054c9cac8
 
+
 ### 2. Customer Purchase Behavior Analysis
-**Tools:** Python, Pandas, KMeans, Apriori**  
+**Tools:** Python, Pandas, KMeans, Apriori, Power Bi**  
+
 **Description:**
 - Analyzed **770K+ transactions** to identify trends and customer segments.  
 - RFM segmentation with KMeans into **4 key segments**.  
@@ -101,8 +104,10 @@ I’m open to **freelance, full-time, or intern opportunities** in **Data Scienc
 
 **GitHub:** [View Project](https://github.com/Ayesha24banu/Customer-Purchase-Behaviour-Analysis-in-Retail)  
 
+
 ### 3. Inventory Management Dashboard
-**Tools:** Excel, PivotTables, Charts, Slicers**  
+**Tools:** Excel, PivotTables, Charts, Slicers, Reporting**  
+
 **Description:**
 - Dynamic Excel dashboard tracking **stock, reorder, and supplier performance**.  
 - Enabled **30% faster stock analysis** via interactive dashboards.
@@ -111,11 +116,11 @@ I’m open to **freelance, full-time, or intern opportunities** in **Data Scienc
 
 **GitHub:** [View Project](https://github.com/Ayesha24banu/Excel-Inventory-Management-Dashboard)
 
----
 
 ## 4. Employee Rewards & Recognition System
 
 **Tools:** Python, Flask, MySQL, HTML/CSS, JS
+
 **Description:**
 - Developed a secure Rewards & Recognition System for employees.
 - Implemented user authentication, session encryption, and SQL injection prevention.
