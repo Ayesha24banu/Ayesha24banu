@@ -1,111 +1,99 @@
-# Hi there 👋, I'm Ayesha Banu
+# 👋 Hey there! I’m **Ayesha Banu**  
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ayesha24banu)
-
-Gold Medallist & 1st Rank Holder | Data Science & Analytics | Python • SQL • ML • Power BI • Flask  
-Hyderabad, Telangana, India | Open to Remote, Freelance & Full-Time Roles  
-
----
-
-## 📖 About Me
-Hi! I’m **Ayesha Banu**, a Gold Medallist & 1st Rank Holder in **M.Sc. Computer Science**, passionate about transforming raw data into meaningful business insights.  
-
-I’ve built impactful projects like:
-
-- **HR Analytics** – XGBoost (~89% accuracy) with SHAP explainability & Streamlit dashboard for fair promotion predictions.  
-- **Customer Purchase Analytics** – RFM Segmentation, Market Basket Analysis & 4-page Power BI dashboard for retail strategy.  
-- **Employee Rewards System** – Full-stack Python project improving database performance by 30%.  
-
-**Skills:** Python | SQL | Pandas | Seaborn | Matplotlib | Machine Learning | Data Analytics | Power BI | Flask | Streamlit  
-
-**Open to:** Data Analyst | Data Scientist | Python Developer | Full Stack Python Developer  
+🎓 Gold Medalist in **M.Sc. Computer Science**  
+📍 Hyderabad, India | 📧 [ayesha24banu@gmail.com](mailto:ayesha24banu@gmail.com) | 📱 +91 9912342990  
+[LinkedIn](https://www.linkedin.com/in/ayesha-banu-cs) | [GitHub](https://github.com/Ayesha24banu)
 
 ---
 
-## 🛠️ Skills & Tools
+## 🌈 My Story in Data  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C80F?style=for-the-badge&logo=power-bi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+Imagine a world full of numbers, hidden patterns, and silent stories. That’s where I thrive.  
+I **decode data mysteries**, build **smart dashboards**, and create **predictive models** that actually make decisions easier.  
+
+Think of me as a **data storyteller**—transforming raw information into insights that matter.
 
 ---
 
-## 📂 Projects
+## 🛠️ My Toolbox  
 
-### 1️⃣ HR Analytics – Employee Promotion Prediction
-![HR Dashboard](https://github.com/Ayesha24banu/HR-Analytics-Employee-Promotion-Prediction/raw/main/demo.gif)  
-**Description:** Predict employee promotions using ML & Explainable AI.  
-**Tech:** Python, XGBoost, Streamlit, SHAP, Pandas, NumPy  
-**Highlights:**  
-- End-to-end ML pipeline (EDA → Preprocessing → Feature Engineering → Model Training)  
-- Interactive dashboard for single/batch predictions  
-- Transparency & fairness using SHAP feature importance  
-**GitHub:** [View Project](https://github.com/Ayesha24banu/HR-Analytics-Employee-Promotion-Prediction)  
+Instead of boring tables, here’s a **visual peek** at what I work with:
 
----
+**Languages & Data:**  
+Python 🐍 | SQL 🗄️ | Pandas 📊 | NumPy 🔢 | Scikit-learn 🤖  
 
-### 2️⃣ Customer Purchase Behavior Analysis
-![Power BI Dashboard](https://github.com/Ayesha24banu/Customer-Purchase-Analytics/raw/main/dashboard_preview.gif)  
-**Description:** Full-cycle Data Science & BI solution for retail insights.  
-**Tech:** Python, Pandas, Matplotlib, RFM Segmentation, KMeans, Apriori, Power BI  
-**Highlights:**  
-- RFM Customer Segmentation & Market Basket Analysis  
-- 4-page interactive Power BI dashboard  
-- Actionable insights for marketing, inventory, and customer retention  
-**GitHub:** [View Project](https://github.com/Ayesha24banu)  
+**Visualization & Dashboards:**  
+Power BI 📈 | Excel Dashboards 📉 | Streamlit 🌐 | Matplotlib 🎨 | Seaborn 🐍  
+
+**Machine Learning & Modeling:**  
+Regression 🔍 | Classification 🏷️ | Clustering 📌 | Feature Engineering ⚙️ | Model Evaluation ✔️  
+
+**Web & Tools:**  
+Flask 🌐 | HTML/CSS/JS 💻 | MySQL 🛢️ | Jupyter 📓 | VS Code 🖥️ | GitHub 🐙  
+
+**Soft Skills & Mindset:**  
+Critical Thinking 🧠 | Problem Solving 🔧 | Collaboration 🤝 | Presentations 🎤 | Curiosity 🚀  
 
 ---
 
-### 3️⃣ Employee Rewards & Recognition System
-**Description:** Full-stack web app for employee engagement & reward distribution.  
-**Tech:** Python, Flask, MySQL, HTML, CSS, JavaScript  
-**Highlights:**  
-- Secure login & admin roles  
-- Real-time leaderboard & reward distribution  
-- Optimized DB performance by 30%  
-**Certification:** CommLab India  
+## 💼 Adventures (Experience)  
+
+### TEKS Academy | Jan 2025 – Present  
+**Data Science Trainee | Hyderabad**  
+- Sleuthed through 10k+ rows of messy datasets to find patterns.  
+- Built dashboards that **decision-makers actually use**.  
+- Performed anomaly detection and turned insights into **actionable strategies**.  
+
+### CommLab India LLP | Apr 2024 – Aug 2024  
+**Full Stack Python Trainee | Remote**  
+[Certification](https://drive.google.com/file/d/1QvMOGhYy5qykiKBc7qQHKNDens5zokZ7/view?usp=sharing) | [GitHub](https://github.com/Ayesha24banu/Employee-Rewards-and-Reconigtion-system)  
+- Built **Employee Rewards & Recognition System** with Flask, MySQL, and JS.  
+- Secured user data with authentication & session encryption.  
+- Optimized database queries and prepared clean, maintainable UML documentation.  
 
 ---
 
-## 🎓 Education
-**M.Sc. Computer Science** – Kasturba Gandhi Degree & PG College for Women (2022-2024)  
-🏅 Gold Medal & 1st Rank | Baby Nalla Reethika Prize – Highest Marks  
+## 🚀 My Data Expeditions (Projects)  
 
-**B.Sc. Mathematics, Physics & CS** – BMR Degree College (2019-2022)  
+### [HR Analytics: Employee Promotion Prediction](https://github.com/Ayesha24banu/HR-Analytics-Employee-Promotion-Prediction)  
+Python | Pandas | Power BI | Streamlit  
+- Predicted promotion outcomes for 50k+ employees.  
+- XGBoost model with **89% accuracy** and SHAP explainability.  
+- Turned insights into interactive dashboards for HR managers.  
 
----
+### [Customer Purchase Behavior Analysis in Retail](https://github.com/Ayesha24banu/Customer-Purchase-Behaviour-Analysis-in-Retail)  
+Python | Pandas | KMeans | Apriori  
+- Analyzed 770K+ transactions to reveal hidden purchase trends.  
+- RFM segmentation + Apriori rules discovered **profitable product bundles**.  
+- Interactive dashboards helped executives **see revenue patterns at a glance**.  
 
-## 💼 Experience
-**Data Science Trainee** – Teks Academy (Jan 2025 – Aug 2025)  
-- Hands-on projects: HR Analytics, Customer Purchase Analytics, Inventory Dashboard  
-- Core skills: Python, SQL, ML, DL, NLP, Power BI, Flask, Streamlit  
+### [Inventory Management Dashboard](https://github.com/Ayesha24banu/Excel-Inventory-Management-Dashboard)  
+Excel | PivotTables | Charts | Slicers  
+- Monitored stock, reorder status, and supplier performance.  
+- Reduced analysis time by **30%** with interactive dashboards.  
 
-**Full Stack Python Trainee – Academic Project** – CommLab India (Apr 2024 – Nov 2024)  
-- Employee Rewards & Recognition System (Python, Flask, MySQL, HTML/CSS/JS)  
-
----
-
-## 🏆 Honors & Awards
-- Gold Medal – 1st Rank, M.Sc. Computer Science  
-- Certificate of Merit – Overall Topper  
-- Baby Nalla Reethika Prize – Highest Marks in M.Sc.  
-
----
-
-## 📫 Contact Me
-- **Phone:** 9912342990  
-- **Email:** ayesha24banu@gmail.com  
-- **LinkedIn:** [linkedin.com/in/ayesha-banu-cs](https://www.linkedin.com/in/ayesha-banu-cs)  
-- **GitHub:** [github.com/Ayesha24banu](https://github.com/Ayesha24banu)  
+### [Employee Rewards & Recognition System](https://github.com/Ayesha24banu/Employee-Rewards-and-Reconigtion-system)  
+Python | Flask | MySQL | HTML/CSS/JS  
+- Full-stack system to recognize and reward employees.  
+- Features: secure login, admin dashboards, performance tracking.  
 
 ---
 
-## ⚡ Fun Stats
+## 🏆 Highlights  
 
-![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayesha24banu&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha24banu&layout=compact&theme=radical)
+- **Gold Medalist** – 1st Rank, M.Sc. Computer Science | Awarded by Telangana Governor  
+- **Certificate of Merit – Overall Topper**, M.Sc. CS Program  
+- **Baby Nalla Reethika Prize** – Highest Marks in M.Sc.  
+- **Data Science Scholarship Award** – Flutter & United Way Hyderabad  
+
+---
+
+## 🎯 Let’s Connect!  
+
+I love **data stories, real-world challenges, and collaboration**.  
+Drop a message, explore my projects, or just say hi 👋  
+
+📧 [ayesha24banu@gmail.com](mailto:ayesha24banu@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/ayesha-banu-cs) | [GitHub](https://github.com/Ayesha24banu)  
+
+💡 *Fun Fact:* I treat every dataset like a puzzle—sometimes messy, sometimes beautiful, always full of secrets waiting to be discovered.
