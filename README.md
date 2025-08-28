@@ -6,9 +6,6 @@ Gold Medalist in **M.Sc. Computer Science** 🎓 with a passion for **Data Scien
 
 I enjoy exploring real-world datasets, uncovering hidden patterns, and presenting insights that make an impact.  
 
-📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/ayesha24banu) | [GitHub](https://github.com/Ayesha24banu) | ayesha24banu@gmail.com  
-
 ---
 
 ## 🛠️ Technical Skills
@@ -38,14 +35,14 @@ Critical Thinking `|` Problem Solving `|` Independent & Collaborative Work `|` P
 ## 💼 Experience
 
 ### TEKS Academy – Data Science Trainee
-**Jan 2025 – Present | Hyderabad, India**  
+**Jan 2025 – Present | On-Site | Hyderabad, India**  
 - Executed analytics projects on datasets (10k+ rows) using Python & Pandas.  
 - Performed EDA and anomaly detection to uncover actionable insights.  
 - Built **interactive dashboards** in Power BI and Google Sheets.  
 - Documented workflows & presented findings simulating real-world analytics projects.  
 
 ### CommLab India LLP – Full Stack Python Trainee
-**Apr 2024 – Aug 2024 | Remote**  
+**Apr 2024 – Aug 2024 | Remote | Hyderabad, India**  
 - Developed **Employee Rewards & Recognition System** using Python, Flask, MySQL, HTML/CSS, JS.  
 - Optimized database queries, improving performance by **30%**.  
 - Implemented secure user authentication & session encryption.  
@@ -65,35 +62,40 @@ Critical Thinking `|` Problem Solving `|` Independent & Collaborative Work `|` P
 - Dashboards deployed in **Streamlit** for HR insights.
    
 **GitHub:** [View Project on GitHub](https://github.com/Ayesha24banu/HR-Analytics-Employee-Promotion-Prediction)
+  
   🎥 **Project Video:**
   https://github.com/user-attachments/assets/4f8b4294-297e-4914-b89d-1a1054c9cac8
 
 ### 2. Customer Purchase Behavior Analysis
 **Tools:** Python, Pandas, KMeans, Apriori**  
-[GitHub](https://github.com/Ayesha24banu/Customer-Purchase-Behaviour-Analysis-in-Retail)
 **Description:**
 - Analyzed **770K+ transactions** to identify trends and customer segments.  
 - RFM segmentation with KMeans into **4 key segments**.  
 - Apriori algorithm for **product bundling insights (>60% confidence)**.  
 - Interactive **Power BI dashboards** for executives.
+  
 **Dashboard Preview:** [Customer Behavior Dashboard Video:](https://drive.google.com/file/d/1Jip6S2ppr5XhR7zQi5dREoGPfj3NtdXh/view)
+
 **GitHub:** [View Project on GitHub](https://github.com/Ayesha24banu/Customer-Purchase-Behaviour-Analysis-in-Retail)  
+
 🎥 **Project Video:** [Watch Here](https://drive.google.com/file/d/1NLckyX9VrAv5E3ddQYDTrqJXJIr0i5D8/view)
 
 ### 3. Inventory Management Dashboard
 **Tools:** Excel, PivotTables, Charts, Slicers**  
-[GitHub](https://github.com/Ayesha24banu/Excel-Inventory-Management-Dashboard) 
 **Description:**
 - Dynamic Excel dashboard tracking **stock, reorder, and supplier performance**.  
-- Enabled **30% faster stock analysis** via interactive dashboards.  
+- Enabled **30% faster stock analysis** via interactive dashboards.
+  
 🎥 **Dashboard Preview Video:** [Watch Here](https://drive.google.com/file/d/1h5OjxHp9skxU2pllRoIBQV6ZZAvBcKXw/view)  
-**GitHub:** [View Project on GitHub](https://github.com/Ayesha24banu/
+
+**GitHub:** [View Project on GitHub](https://github.com/Ayesha24banu/Excel-Inventory-Management-Dashboard)
+
 ---
 
 ## 🎓 Education
 
-- **M.Sc. Computer Science – Gold Medalist**, Kasturba Gandhi PG College (76.97%) | 2022 – 2024  
-- **B.Sc. Mathematics, Physics, Computer Science**, BMR Degree College (90%) | 2019 – 2022  
+- **M.Sc. Computer Science – Gold Medallist**, Kasturba Gandhi PG College for Women | 2022 – 2024  
+- **B.Sc. Mathematics, Physics, Computer Science**, BMR Degree College | 2019 – 2022  
 
 ---
 
@@ -113,7 +115,7 @@ Critical Thinking `|` Problem Solving `|` Independent & Collaborative Work `|` P
 
 ---
 
-## ✨ Let’s Connect
+## 📫 Let’s Connect
 
 I’m open to **Data Science, Analytics, and BI opportunities**.  
 Feel free to explore my projects, certificates, and dashboards above.  
