@@ -1,99 +1,107 @@
-# 👋 Hey there! I’m **Ayesha Banu**  
+# 👋 Hi, I’m Ayesha Banu
 
-🎓 Gold Medalist in **M.Sc. Computer Science**  
-📍 Hyderabad, India | 📧 [ayesha24banu@gmail.com](mailto:ayesha24banu@gmail.com) | 📱 +91 9912342990  
-[LinkedIn](https://www.linkedin.com/in/ayesha-banu-cs) | [GitHub](https://github.com/Ayesha24banu)
+Gold Medalist | Data Enthusiast | Python & Power BI Explorer
 
 ---
 
-## 🌈 My Story in Data  
+## 🌟 About Me
 
-Imagine a world full of numbers, hidden patterns, and silent stories. That’s where I thrive.  
-I **decode data mysteries**, build **smart dashboards**, and create **predictive models** that actually make decisions easier.  
+I don’t just see numbers—I see **stories, patterns, and possibilities** hidden within them.  
 
-Think of me as a **data storyteller**—transforming raw information into insights that matter.
+From analyzing **50k+ employee records** to uncover fair promotion insights, to exploring **770k+ retail transactions** to reveal what drives customer behavior, I transform raw data into **actionable strategies**.  
 
----
+I’m a **Gold Medalist in M.Sc. Computer Science**, passionate about building solutions that are **data-driven, insightful, and interactive**.  
 
-## 🛠️ My Toolbox  
+When I’m not coding, you might find me:  
+- Crafting **interactive dashboards** that make data speak 🎨  
+- Exploring new datasets like a detective 🕵️‍♀️  
+- Sharing insights that spark smarter decisions 💡  
 
-Instead of boring tables, here’s a **visual peek** at what I work with:
-
-**Languages & Data:**  
-Python 🐍 | SQL 🗄️ | Pandas 📊 | NumPy 🔢 | Scikit-learn 🤖  
-
-**Visualization & Dashboards:**  
-Power BI 📈 | Excel Dashboards 📉 | Streamlit 🌐 | Matplotlib 🎨 | Seaborn 🐍  
-
-**Machine Learning & Modeling:**  
-Regression 🔍 | Classification 🏷️ | Clustering 📌 | Feature Engineering ⚙️ | Model Evaluation ✔️  
-
-**Web & Tools:**  
-Flask 🌐 | HTML/CSS/JS 💻 | MySQL 🛢️ | Jupyter 📓 | VS Code 🖥️ | GitHub 🐙  
-
-**Soft Skills & Mindset:**  
-Critical Thinking 🧠 | Problem Solving 🔧 | Collaboration 🤝 | Presentations 🎤 | Curiosity 🚀  
+If you want someone who treats data like a **puzzle waiting to be solved**—sometimes messy, sometimes beautiful, always full of stories—you’ve found her.
 
 ---
 
-## 💼 Adventures (Experience)  
+## 🚀 Skills & Tools
 
-### TEKS Academy | Jan 2025 – Present  
-**Data Science Trainee | Hyderabad**  
-- Sleuthed through 10k+ rows of messy datasets to find patterns.  
-- Built dashboards that **decision-makers actually use**.  
-- Performed anomaly detection and turned insights into **actionable strategies**.  
-
-### CommLab India LLP | Apr 2024 – Aug 2024  
-**Full Stack Python Trainee | Remote**  
-[Certification](https://drive.google.com/file/d/1QvMOGhYy5qykiKBc7qQHKNDens5zokZ7/view?usp=sharing) | [GitHub](https://github.com/Ayesha24banu/Employee-Rewards-and-Reconigtion-system)  
-- Built **Employee Rewards & Recognition System** with Flask, MySQL, and JS.  
-- Secured user data with authentication & session encryption.  
-- Optimized database queries and prepared clean, maintainable UML documentation.  
+| Languages | Data & ML | Visualization | Tools & Platforms |
+|-----------|-----------|---------------|-----------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-0078D7?style=flat&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
 
 ---
 
-## 🚀 My Data Expeditions (Projects)  
+## 💼 Experience
 
-### [HR Analytics: Employee Promotion Prediction](https://github.com/Ayesha24banu/HR-Analytics-Employee-Promotion-Prediction)  
-Python | Pandas | Power BI | Streamlit  
-- Predicted promotion outcomes for 50k+ employees.  
-- XGBoost model with **89% accuracy** and SHAP explainability.  
-- Turned insights into interactive dashboards for HR managers.  
+### TEKS Academy – Data Science Trainee (Jan 2025 – Present) | Hyderabad
+- Executed **analytics projects on structured datasets (10k+ rows)** using Python.  
+- Performed **EDA and anomaly detection** to uncover actionable insights.  
+- Built **interactive dashboards and reports** in Power BI & Google Sheets for stakeholders.  
+- Documented workflows & presented insights to simulate **real-world analytics processes**.  
 
-### [Customer Purchase Behavior Analysis in Retail](https://github.com/Ayesha24banu/Customer-Purchase-Behaviour-Analysis-in-Retail)  
-Python | Pandas | KMeans | Apriori  
-- Analyzed 770K+ transactions to reveal hidden purchase trends.  
-- RFM segmentation + Apriori rules discovered **profitable product bundles**.  
-- Interactive dashboards helped executives **see revenue patterns at a glance**.  
-
-### [Inventory Management Dashboard](https://github.com/Ayesha24banu/Excel-Inventory-Management-Dashboard)  
-Excel | PivotTables | Charts | Slicers  
-- Monitored stock, reorder status, and supplier performance.  
-- Reduced analysis time by **30%** with interactive dashboards.  
-
-### [Employee Rewards & Recognition System](https://github.com/Ayesha24banu/Employee-Rewards-and-Reconigtion-system)  
-Python | Flask | MySQL | HTML/CSS/JS  
-- Full-stack system to recognize and reward employees.  
-- Features: secure login, admin dashboards, performance tracking.  
+### CommLab India LLP – Full Stack Python Trainee (Apr 2024 – Aug 2024) | Remote
+- Developed **Employee Rewards & Recognition System** using Python, Flask, MySQL, HTML/CSS, and JS.  
+- Optimized database queries, improving performance by **30%**.  
+- Implemented **secure authentication, session encryption, and SQL injection prevention**.  
+- Prepared **UML diagrams and documentation** for maintainability and technical validation.  
 
 ---
 
-## 🏆 Highlights  
+## 📊 Projects
 
-- **Gold Medalist** – 1st Rank, M.Sc. Computer Science | Awarded by Telangana Governor  
-- **Certificate of Merit – Overall Topper**, M.Sc. CS Program  
-- **Baby Nalla Reethika Prize** – Highest Marks in M.Sc.  
-- **Data Science Scholarship Award** – Flutter & United Way Hyderabad  
+<div align="center">
+
+### HR Analytics: Employee Promotion Prediction
+![Python](https://img.shields.io/badge/Python-F7931E?style=flat&logo=python) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=microsoft-power-bi) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit)
+**GitHub:** [Click Here](https://github.com/Ayesha24banu/HR-Analytics-Employee-Promotion-Prediction)  
+- Predictive model for **50k+ employees**, ensuring fairness in promotions.  
+- Engineered features like **age_bucket, tenure_bucket, high_performance_flag**.  
+- **XGBoost model:** 89% accuracy with **SHAP explainability**.  
+- **Interactive dashboards** in Power BI & Streamlit.
 
 ---
 
-## 🎯 Let’s Connect!  
+### Customer Purchase Behavior Analysis in Retail
+![Python](https://img.shields.io/badge/Python-F7931E?style=flat&logo=python) ![KMeans](https://img.shields.io/badge/KMeans-6C63FF?style=flat) ![Apriori](https://img.shields.io/badge/Apriori-FF6F61?style=flat)  
+**GitHub:** [Click Here](https://github.com/Ayesha24banu/Customer-Purchase-Behaviour-Analysis-in-Retail)  
+- Cleaned & analyzed **770k+ transactions** to identify customer behavior.  
+- **RFM segmentation** to group customers into actionable segments.  
+- **Apriori algorithm** discovered cross-sell opportunities (>60% confidence).  
+- Developed **Power BI dashboards** for executive insights.
 
-I love **data stories, real-world challenges, and collaboration**.  
-Drop a message, explore my projects, or just say hi 👋  
+---
 
-📧 [ayesha24banu@gmail.com](mailto:ayesha24banu@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/ayesha-banu-cs) | [GitHub](https://github.com/Ayesha24banu)  
+### Inventory Management Dashboard
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel) ![PivotTables](https://img.shields.io/badge/PivotTables-FF9900?style=flat)  
+**GitHub:** [Click Here](https://github.com/Ayesha24banu/Excel-Inventory-Management-Dashboard)  
+- Built **dynamic Excel dashboard** to track stock, reorder status, and supplier performance.  
+- **30% faster stock analysis** with interactive visuals.  
+- Automated KPI monitoring for warehouses.
 
-💡 *Fun Fact:* I treat every dataset like a puzzle—sometimes messy, sometimes beautiful, always full of secrets waiting to be discovered.
+</div>
+
+---
+
+## 🎓 Education
+
+**Kasturba Gandhi PG College for Women, Secunderabad** – M.Sc. Computer Science | Gold Medalist (2022 – 2024)  
+**BMR Degree College** – B.Sc. Mathematics, Physics, Computer Science | 90% (2019 – 2022)
+
+---
+
+## 🏆 Certifications & Awards
+
+- **Data Visualization: Empowering Business Insights** – Tata Group | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_2janjZ4qY4JpFaYNL_1742980325691_completion_certificate.pdf)  
+- **Python 101 for Data Science** – Cognitive Class | [Certificate](https://courses.cognitiveclass.ai/certificates/54ddcbc8ab16414d87c3b71ec5b22022)  
+- **Data Science Scholarship Award** – Flutter & United Way Hyderabad | [Certificate](https://drive.google.com/file/d/1pHCeJxKsAoKzQYZbTDxHPYnyYBWdK0Fg/view?usp=drive_link)  
+- **Gold Medal – 1st Rank** in M.Sc. Computer Science, Kasturba Gandhi Degree & PG College | Awarded by Telangana Governor  
+- **Certificate of Merit – Overall Topper**, M.Sc.(CS) Program  
+
+---
+
+## 📫 Connect with Me
+
+- 📧 ayesha24banu@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayesha-banu-cs)  
+- 💻 [GitHub](https://github.com/Ayesha24banu)  
+
+---
+
