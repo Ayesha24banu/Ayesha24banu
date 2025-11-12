@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ayesha Banu  
 
 🎓 **Gold Medallist & 1st Rank Holder in M.Sc. Computer Science (2024)**  
-💼 **Data Science Intern | Aspiring Data Analyst / Data Scientist / ML Engineer**  
+💼 **Data Science Intern | Aspiring Data Analyst · Data Scientist · ML Engineer**  
 📍 Hyderabad, India | 🌐 Open to Remote Roles  
 
 > _“Turning raw data into actionable insights — one dataset at a time!”_
@@ -113,24 +113,25 @@ I love exploring real-world datasets, uncovering hidden patterns, and designing 
 
 ---
 
-## 🏆 Honors & Achievements  
+## 📜 Certifications  
 
-- ### 🥇 [Gold Medal – 1st Rank (M.Sc. Computer Science)](https://drive.google.com/file/d/1-d7Q5cs2nfrMAB4ce4K_BNUJc9_hkdlz/view?usp=drive_link) –  Awarded by Governor of Telangana  
-- 🏅 **Certificate of Merit – Overall Topper** – M.Sc.(CS) Program 
-- 🎖️ **Data Science Scholarship Award** – Flutter Entertainment x United Way Hyderabad  
-- 🌟 **Star Performer** – Oasis Infobyte Internship (AICTE OIB–SIP)  
-- 🧩 **Academic Project Excellence** – CommLab India LLP  
+- 🎓 [**Data Science Training Program**](https://drive.google.com/file/d/16iAuoHp9wneJH62V8ETykk0XCmVWF5mA/view) – TEKS Academy
+- 🧠 [**AICTE OIB–SIP Data Science Internship Certificate**](https://drive.google.com/file/d/1o3t4rXZiUXXQaRBpjcYzC96kFOPMxW10/view) – Oasis Infobyte  
+- 💼 [**Scholarship - Data Science Internship Certificate**](https://drive.google.com/file/d/1Y9D-NivzNKIIzZP_K9h5wMwPVydlCG9H/view?usp=drive_link) - Infoz IT Solutions
+- 🏢 [**Industry Exposure Program Certificate (IEP)**](https://drive.google.com/file/d/1Qk6ox2jO4l3U0zL8PHYSne49_2GWV_J0/view) – Infoz IT Solutions
+- 🤖 [**GenAI Powered Data Analytics Job Simulation**](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_2janjZ4qY4JpFaYNL_1758185940987_completion_certificate.pdf) – Tata Forage
+- 📊 [**Data Visualization: Empowering Business Insights**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_2janjZ4qY4JpFaYNL_1742980325691_completion_certificate.pdf) – Tata Forage
+- 🐍 [**Python 101 for Data Science**](https://courses.cognitiveclass.ai/certificates/54ddcbc8ab16414d87c3b71ec5b22022) – Cognitive Class (IBM)  
 
 ---
 
-## 📜 Certifications  
+## 🏆 Honors & Achievements  
 
-- **Data Science Training Program** – TEKS Academy  
-- **Python 101 for Data Science** – Cognitive Class (IBM)  
-- **Data Visualization: Empowering Business Insights** – Tata Forage  
-- **AICTE OIB–SIP Internship Certificate** – Oasis Infobyte  
-- **Data Science Scholarship Award** – Flutter Entertainment  
-- **Academic Project Excellence (Full Stack Project)** – CommLab India  
+- 🌟 **[Letter of Recommendation](https://drive.google.com/file/d/16cryzbrQyO3Ii_2WalDPL9Qo6Upaj9vF/view) [(Star Performer)](https://drive.google.com/file/d/1o3t4rXZiUXXQaRBpjcYzC96kFOPMxW10/view)** – Oasis Infobyte (AICTE OIB–SIP Internship)
+- 🥇 [**Gold Medal – 1st Rank (M.Sc. Computer Science)**](https://drive.google.com/file/d/1-d7Q5cs2nfrMAB4ce4K_BNUJc9_hkdlz/view?usp=drive_link) –  Awarded by Hon’ble Governor of Telangana
+- 🏅 [**Certificate of Merit**](https://drive.google.com/file/d/1j9RHpUPTnG2dhDr-wdIalsfnpQD5QC8K/view?usp=sharing) – Overall Topper in M.Sc.(CS) Program 
+- 🎖️ [**Data Science Scholarship Award**](https://drive.google.com/file/d/1pHCeJxKsAoKzQYZbTDxHPYnyYBWdK0Fg/view?usp=drive_link) – Flutter Entertainment x United Way Hyderabad   
+- 🧩 [**Academic Project Excellence (Full Stack Project)**](https://drive.google.com/file/d/1QvMOGhYy5qykiKBc7qQHKNDens5zokZ7/view?usp=sharing) – CommLab India LLP  
 
 ---
 
@@ -143,39 +144,12 @@ I love exploring real-world datasets, uncovering hidden patterns, and designing 
 
 ---
 
-## 📜 Certifications
-
-- **Data Science Training** — TEKS Academy | *Pursuing*  
-- **Data Visualization: Empowering Business Insights** — Tata Group | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_2janjZ4qY4JpFaYNL_1742980325691_completion_certificate.pdf)  
-- **Python 101 for Data Science** — Cognitive Class | [Certificate](https://courses.cognitiveclass.ai/certificates/54ddcbc8ab16414d87c3b71ec5b22022)  
-- **Data Science Scholarship Award** — Flutter & United Way Hyderabad | [Certificate](https://drive.google.com/file/d/1pHCeJxKsAoKzQYZbTDxHPYnyYBWdK0Fg/view?usp=drive_link)  
-
----
-
-## 🏆 Honors & Awards
-
-- **Gold Medal** – 1st Rank, M.Sc. Computer Science | Awarded by Telangana Governor [View Award](https://drive.google.com/file/d/1-d7Q5cs2nfrMAB4ce4K_BNUJc9_hkdlz/view?usp=drive_link)  
-- **Certificate of Merit – Overall Topper**: M.Sc.(CS) Program | [Certificate](https://drive.google.com/file/d/1j9RHpUPTnG2dhDr-wdIalsfnpQD5QC8K/view?usp=sharing)  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayesha24banu&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha24banu&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha24banu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Let’s Connect
 
-I’m open to **freelance, full-time, or intern opportunities** in **Data Science, Analytics, Python Developer, and Full Stack Python**.  
+I’m open to **Data Analyst · Data Scientist · ML Engineer · Python Developer** roles — **full-time, intern, or freelance**.  
 Feel free to explore my projects, certificates, and dashboards above.  
+
+Let’s connect and collaborate on turning data into meaningful impact!
 
 💼 [LinkedIn](https://www.linkedin.com/in/ayesha-banu-cs)  
 🐙 [GitHub](https://github.com/Ayesha24banu)  
