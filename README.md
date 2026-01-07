@@ -68,7 +68,26 @@ I love exploring real-world datasets, uncovering hidden patterns, and designing 
 
 ## 🚀 Featured Projects 
 
-### 🧩 [1. HR Analytics – Employee Promotion Prediction](https://github.com/Ayesha24banu/HR-Analytics-Employee-Promotion-Prediction)
+### 📡 [1. Multimodal AI for Telecom Customer Churn & Sentiment Analysis](https://github.com/Ayesha24banu/telecom_churn_multimodal_ai)
+
+- Built an end-to-end multimodal AI system combining structured customer data (ML) and unstructured feedback text (DL/NLP) to predict churn and understand why customers leave.
+- Developed a high-performance XGBoost churn prediction model (ROC-AUC: 96.77%) with SHAP explainability for transparent decision-making.
+- Designed a CNN + BiLSTM + Attention model (88% accuracy) for automated sentiment analysis on realistic customer feedback.
+- Created a production-ready Streamlit application supporting single & batch predictions, role-based access, SQLite history tracking, and AI-driven retention insights.
+- Built a 4-page Power BI executive dashboard (Executive Overview, Segmentation, Revenue Impact, Sentiment Insights) to translate AI outputs into business decisions.
+
+**Tools:** Python, Pandas, XGBoost, TensorFlow/Keras, NLP (VADER, TF-IDF), SHAP, Streamlit, SQLite, Power BI
+
+🎥 **Project Demo Video:** [Watch Here](https://github.com/user-attachments/assets/442f5f9b-bf12-475b-8b5b-3b089182d49e)
+
+
+📊 **Power BI Dashboard Video:** Included in project (.pbix)
+
+📄 Detailed Project Report: Included in repository
+
+---
+
+### 🧩 [2. HR Analytics – Employee Promotion Prediction](https://github.com/Ayesha24banu/HR-Analytics-Employee-Promotion-Prediction)
 
 - Predictive model for **50k+ employees**, improving transparency in promotions.  
 - Engineered features (age/tenure buckets, performance flags) & preprocessed data.  
@@ -76,11 +95,11 @@ I love exploring real-world datasets, uncovering hidden patterns, and designing 
 - Developed a **Streamlit dashboard** for single & batch predictions with interactive HR insights.  
 **Tools:** Python, Pandas, ML, SHAP, Streamlit, Scikit-learn  
 
-🎥 **Project Video:** https://github.com/user-attachments/assets/4f8b4294-297e-4914-b89d-1a1054c9cac8
+🎥 **Project Video:** [Watch Here](https://github.com/user-attachments/assets/4f8b4294-297e-4914-b89d-1a1054c9cac8)
 
 ---
 
-### 🛒 [2. Customer Purchase Behavior Analysis](https://github.com/Ayesha24banu/Customer-Purchase-Behaviour-Analysis-in-Retail)
+### 🛒 [3. Customer Purchase Behavior Analysis](https://github.com/Ayesha24banu/Customer-Purchase-Behaviour-Analysis-in-Retail)
 
 - Analyzed **770K+ transactions** to identify trends and customer segments.  
 - RFM segmentation with KMeans into **4 key segments**.  
@@ -92,7 +111,7 @@ I love exploring real-world datasets, uncovering hidden patterns, and designing 
 
 ---
 
-### 📦 [3. Inventory Management Dashboard](https://github.com/Ayesha24banu/Excel-Inventory-Management-Dashboard)
+### 📦 [4. Inventory Management Dashboard](https://github.com/Ayesha24banu/Excel-Inventory-Management-Dashboard)
  
 - Developed a dynamic Excel dashboard for tracking **stock, reorder, and supplier performance**.  
 - Enabled **30% faster stock analysis** via interactive dashboards.
@@ -102,11 +121,12 @@ I love exploring real-world datasets, uncovering hidden patterns, and designing 
 
 --- 
 
-### 💻 [4. Employee Rewards & Recognition System](https://github.com/Ayesha24banu/Employee-Rewards-and-Reconigtion-system)
+### 💻 [5. Employee Rewards & Recognition System](https://github.com/Ayesha24banu/Employee-Rewards-and-Reconigtion-system)
 
 - Developed a secure Rewards & Recognition System for employees.
 - Implemented authentication, admin roles, and optimized queries — improved performance by **30%**.  
 - Prepared UML diagrams & documentation for maintainability.
+  
 **Tools:** Python, Flask, MySQL, HTML/CSS, JS
 
 🎥**Project Video:** [Watch Here](https://drive.google.com/file/d/1F5jvf4m7fw0TtOVI0_PKrItvu4ATS-FQ/view) | **Certification:** [CommLab India Project Certificate](https://drive.google.com/file/d/1QvMOGhYy5qykiKBc7qQHKNDens5zokZ7/view?usp=sharing)
