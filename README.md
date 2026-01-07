@@ -19,6 +19,8 @@ I love exploring real-world datasets, uncovering hidden patterns, and designing 
 - 🧩 **Industry Intern – Infoz IT Solutions (NASSCOM Program)**  
 - 🎓 **Data Science Trainee – TEKS Academy**  
 
+> 💼 Career Focus: Data Analytics, Machine Learning, Data Science and Business Intelligence with real-world deployment experience.
+
 ---
 
 ## 🛠️ Technical Skills  
@@ -62,26 +64,22 @@ I love exploring real-world datasets, uncovering hidden patterns, and designing 
 ![Teamwork](https://img.shields.io/badge/Collaborative_Work-1E90FF?style=for-the-badge)
 ![Presentation](https://img.shields.io/badge/Presentations-8A2BE2?style=for-the-badge)
 
-> 💡 _“Turning data into decisions, insights into action.”_
-
 ---
 
 ## 🚀 Featured Projects 
 
 ### 📡 [1. Multimodal AI for Telecom Customer Churn & Sentiment Analysis](https://github.com/Ayesha24banu/telecom_churn_multimodal_ai)
 
-- Built an end-to-end multimodal AI system combining structured customer data (ML) and unstructured feedback text (DL/NLP) to predict churn and understand why customers leave.
-- Developed a high-performance XGBoost churn prediction model (ROC-AUC: 96.77%) with SHAP explainability for transparent decision-making.
-- Designed a CNN + BiLSTM + Attention model (88% accuracy) for automated sentiment analysis on realistic customer feedback.
-- Created a production-ready Streamlit application supporting single & batch predictions, role-based access, SQLite history tracking, and AI-driven retention insights.
-- Built a 4-page Power BI executive dashboard (Executive Overview, Segmentation, Revenue Impact, Sentiment Insights) to translate AI outputs into business decisions.
+- Built an end-to-end **multimodal AI** system combining **structured customer data (ML) and unstructured feedback text (DL/NLP)** to **predict churn and understand why customers leave**.
+- Developed a high-performance **XGBoost churn prediction model (ROC-AUC: 96.77%)** with **SHAP explainability** for transparent decision-making.
+- Designed a **CNN + BiLSTM + Attention model (88% accuracy)** for **automated sentiment analysis** on realistic customer feedback.
+- Created a production-ready **Streamlit application** supporting **single & batch predictions, role-based access, SQLite history tracking, and AI-driven retention insights**.
+- Built a **4-page Power BI** executive dashboard **(Executive Overview, Segmentation, Revenue Impact, Sentiment Insights)** to translate AI outputs into business decisions.
 
 **Tools:** Python, Pandas, XGBoost, TensorFlow/Keras, NLP (VADER, TF-IDF), SHAP, Streamlit, SQLite, Power BI
 
 🎥 **Project Demo Video:** [Watch Here](https://github.com/user-attachments/assets/442f5f9b-bf12-475b-8b5b-3b089182d49e)
-
-
-📊 **Power BI Dashboard Video:** Included in project (.pbix)
+📊 **Power BI Dashboard Video:** [Watch Here](https://github.com/user-attachments/assets/485c31b7-fb18-4429-ac81-2f779637a1d1)
 
 📄 Detailed Project Report: Included in repository
 
@@ -178,4 +176,7 @@ Let’s connect and collaborate on turning data into meaningful impact!
 > _“Turning data into decisions, and insights into innovation.”_ 🚀  
 
 ---
+
+📌 *Pinned projects below showcase real-world business problems solved using data, ML, NLP, and BI tools.*
+
 ⭐ If you like my projects, don’t forget to **star 🌟 and follow** for updates!
