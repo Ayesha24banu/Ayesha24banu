@@ -1,82 +1,59 @@
 # 👋 Hi, I’m Ayesha Banu  
 
-🎓 **Gold Medallist & 1st Rank Holder in M.Sc. Computer Science (2024)**  
-💼 **Data Science Intern | Aspiring Data Analyst · Data Scientist · ML Engineer**  
-📍 Hyderabad, India | 🌐 Open to Remote Roles  
-
-> _“Turning raw data into actionable insights — one dataset at a time!”_
+🎓 **Gold Medalist in M.Sc. Computer Science**  
+💼 **Applied AI & ML Analyst | Document AI • Machine Learning • Data Analytics**  
+📍 Hyderabad, India | 🌐 Open to Full-Time & Remote Opportunities
 
 ---
 
 ## 🧠 About Me  
 
-I’m a passionate **Data Science professional** with a strong academic foundation and hands-on experience in **Machine Learning, Data Analytics, and Business Intelligence**.  
+I work on applied AI systems involving machine learning, document intelligence, structured output validation, and data-driven analytics. My experience includes AI model evaluation, CVAT-based annotation workflows, predictive modeling, NLP, and interactive analytics applications using Python, Scikit-learn, TensorFlow, SQL, and Power BI.
 
-I love exploring real-world datasets, uncovering hidden patterns, and designing interactive dashboards that transform insights into impact.  
-
-- 🥇 **Gold Medal & Merit Certificate** – Awarded by the Hon’ble Governor of Telangana  
-- ⭐ **Star Performer – Oasis Infobyte (AICTE OIB–SIP)**  
-- 🧩 **Industry Intern – Infoz IT Solutions (NASSCOM Program)**  
-- 🎓 **Data Science Trainee – TEKS Academy**  
-
-> 💼 Career Focus: Data Analytics, Machine Learning, Data Science and Business Intelligence with real-world deployment experience.
+Currently focused on:
+- Document AI & AI Evaluation
+- Machine Learning Workflows
+- NLP & Predictive Analytics
+- Data Visualization & BI
+- Streamlit-based AI Applications  
 
 ---
 
 ## 🛠️ Technical Skills  
 
-### 👩‍💻 Languages & Libraries
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FF9900?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-### 📊 Data Visualization & Dashboards
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white)
+### 👩‍💻 Programming & Data 
+Python • SQL • Pandas • NumPy • MySQL
 
 ### 🧠 Machine Learning & Modeling
-![Regression](https://img.shields.io/badge/Regression-F0DB4F?style=for-the-badge)
-![Classification](https://img.shields.io/badge/Classification-FF6F61?style=for-the-badge)
-![Clustering](https://img.shields.io/badge/Clustering-6F42C1?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-4CAF50?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-00BFFF?style=for-the-badge)
+Scikit-learn • XGBoost • Regression • Classification • Clustering • Cross-Validation • Model Evaluation
 
-### 🤖 Deep Learning & NLP (Basics)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-8A2BE2?style=for-the-badge)
-![NLTK](https://img.shields.io/badge/NLTK-FF4500?style=for-the-badge)
+### 🤖 Deep Learning & NLP 
+TensorFlow • Keras • NLTK • TF-IDF • Sentiment Analysis • Text Preprocessing 
+
+### 💡 Document AI & Validation
+CVAT • Annotation QA • Structured Output Validation • PDF-to-HTML Validation • Reading-Order Verification • JSON Validation
+
+### 📊 Analytics & Visualization
+EDA • Feature Engineering • Statistical Analysis • Power BI • Matplotlib • Seaborn • Excel • Power Query • Streamlit
 
 ### 🛠 Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 💡 Soft Skills
-![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-FFA500?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF4500?style=for-the-badge)
-![Teamwork](https://img.shields.io/badge/Collaborative_Work-1E90FF?style=for-the-badge)
-![Presentation](https://img.shields.io/badge/Presentations-8A2BE2?style=for-the-badge)
+GitHub • Jupyter Notebook • VS Code • PREP Tool
 
 ---
 
 ## 🚀 Featured Projects 
 
-### 📡 [1. Multimodal AI for Telecom Customer Churn & Sentiment Analysis](https://github.com/Ayesha24banu/telecom_churn_multimodal_ai)
+### 📡 1. Multimodal AI – Telecom Churn & Sentiment Analysis
 
-- Built an end-to-end **multimodal AI** system combining **structured customer data (ML) and unstructured feedback text (DL/NLP)** to **predict churn and understand why customers leave**.
-- Developed a high-performance **XGBoost churn prediction model (ROC-AUC: 96.77%)** with **SHAP explainability** for transparent decision-making.
-- Designed a **CNN + BiLSTM + Attention model (88% accuracy)** for **automated sentiment analysis** on realistic customer feedback.
-- Created a production-ready **Streamlit application** supporting **single & batch predictions, role-based access, SQLite history tracking, and AI-driven retention insights**.
-- Built a **4-page Power BI** executive dashboard **(Executive Overview, Segmentation, Revenue Impact, Sentiment Insights)** to translate AI outputs into business decisions.
+**🔗 Repository:** https://github.com/Ayesha24banu/telecom_churn_multimodal_ai
 
-**Tools:** Python, Pandas, XGBoost, TensorFlow/Keras, NLP (VADER, TF-IDF), SHAP, Streamlit, SQLite, Power BI
+- Developed a multimodal ML pipeline integrating structured CRM data with unstructured customer feedback for churn prediction and sentiment analysis.
+- Trained and optimized an XGBoost churn model achieving 96.7% ROC-AUC using feature engineering, cross-validation, and hyperparameter tuning.
+- Engineered NLP features including VADER sentiment scores, TF-IDF vectors, and text complexity metrics.
+- Built a CNN + BiLSTM + Attention model achieving 88% accuracy for sentiment classification.
+- Developed a Streamlit analytics application with integrated Power BI dashboards for prediction workflows and analytical insights.
+
+**Tech Stack:** Python, XGBoost, TensorFlow/Keras, NLP, SHAP, Streamlit, SQLite, Power BI
 
 🎥 **Project Demo Video:** [Watch Here](https://github.com/user-attachments/assets/442f5f9b-bf12-475b-8b5b-3b089182d49e)
 📊 **Power BI Dashboard Video:** [Watch Here](https://github.com/user-attachments/assets/485c31b7-fb18-4429-ac81-2f779637a1d1)
@@ -85,49 +62,72 @@ I love exploring real-world datasets, uncovering hidden patterns, and designing 
 
 ---
 
-### 🧩 [2. HR Analytics – Employee Promotion Prediction](https://github.com/Ayesha24banu/HR-Analytics-Employee-Promotion-Prediction)
+### 🧩 2. HR Analytics – Employee Promotion Prediction
 
-- Predictive model for **50k+ employees**, improving transparency in promotions.  
-- Engineered features (age/tenure buckets, performance flags) & preprocessed data.  
-- Built an **XGBoost model (~89% accuracy)** with **SHAP explainability** for fair, bias-free promotion predictions.  
-- Developed a **Streamlit dashboard** for single & batch predictions with interactive HR insights.  
-**Tools:** Python, Pandas, ML, SHAP, Streamlit, Scikit-learn  
+**🔗 Repository:** https://github.com/Ayesha24banu/HR-Analytics-Employee-Promotion-Prediction
+
+- Developed a machine learning pipeline on 50K+ employee records to predict promotion outcomes.
+- Optimized an XGBoost model achieving 89% accuracy using class imbalance handling and hyperparameter tuning.
+- Applied SHAP explainability techniques to interpret feature importance and support transparent HR decision-making.
+- Built a Streamlit application supporting single and batch prediction workflows with visualization support.
+
+**Tech Stack:** Python, XGBoost, SHAP, Scikit-learn, Streamlit
 
 🎥 **Project Video:** [Watch Here](https://github.com/user-attachments/assets/4f8b4294-297e-4914-b89d-1a1054c9cac8)
 
 ---
 
-### 🛒 [3. Customer Purchase Behavior Analysis](https://github.com/Ayesha24banu/Customer-Purchase-Behaviour-Analysis-in-Retail)
+### 🛒 3. Customer Purchase Behavior Analysis
 
-- Analyzed **770K+ transactions** to identify trends and customer segments.  
-- RFM segmentation with KMeans into **4 key segments**.  
-- Apriori algorithm for **product bundling insights (>60% confidence)**.  
-- Created a **4-page Power BI dashboard** visualizing customer segments and cross-sell insights.  
-**Tools:** Python, Pandas, KMeans, Apriori, Power Bi
-  
+**🔗 Repository:** https://github.com/Ayesha24banu/Customer-Purchase-Behaviour-Analysis-in-Retail
+
+- Analyzed 770K+ retail transactions to identify customer purchasing patterns and product associations.
+- Applied RFM segmentation and KMeans clustering to identify high-value customer groups.
+- Implemented Apriori association rule mining to discover cross-selling opportunities and product affinity patterns.
+- Developed interactive Power BI dashboards for customer segmentation and sales analytics.
+
+**Tech Stack:** Python, Pandas, KMeans, Apriori, Power BI
+
 **Dashboard video:** [Customer Behavior Dashboard Video](https://drive.google.com/file/d/1Jip6S2ppr5XhR7zQi5dREoGPfj3NtdXh/view) | 🎥 **Project Video:** [Watch Here](https://drive.google.com/file/d/1NLckyX9VrAv5E3ddQYDTrqJXJIr0i5D8/view)
 
 ---
 
-### 📦 [4. Inventory Management Dashboard](https://github.com/Ayesha24banu/Excel-Inventory-Management-Dashboard)
+### 📦 4. Inventory Management Dashboard
+
+**🔗 Repository:** https://github.com/Ayesha24banu/Excel-Inventory-Management-Dashboard
  
-- Developed a dynamic Excel dashboard for tracking **stock, reorder, and supplier performance**.  
-- Enabled **30% faster stock analysis** via interactive dashboards.
-  **Tools:** Excel, Power Query, Data Visualization, PivotTables, Charts, Slicers, Reporting
+- Developed an interactive Excel dashboard for inventory tracking, supplier monitoring, and stock analysis.
+- Automated reporting workflows using Power Query and dashboard visualizations.
+- Improved inventory monitoring efficiency through KPI-driven reporting and filtering workflows.
+
+**Tech Stack:** Excel, Power Query,  Data Visualization, PivotTables, Charts,  Slicers, Reporting
   
 🎥 **Dashboard Video:** [Watch Here](https://drive.google.com/file/d/1h5OjxHp9skxU2pllRoIBQV6ZZAvBcKXw/view)  
 
 --- 
 
-### 💻 [5. Employee Rewards & Recognition System](https://github.com/Ayesha24banu/Employee-Rewards-and-Reconigtion-system)
+### 💻 5. Employee Rewards & Recognition System
 
-- Developed a secure Rewards & Recognition System for employees.
-- Implemented authentication, admin roles, and optimized queries — improved performance by **30%**.  
-- Prepared UML diagrams & documentation for maintainability.
-  
-**Tools:** Python, Flask, MySQL, HTML/CSS, JS
+**🔗 Repository:** https://github.com/Ayesha24banu/Employee-Rewards-and-Reconigtion-system
+
+- Developed a role-based employee rewards and recognition system with authentication and administrative workflows.
+- Integrated MySQL database operations and optimized backend query performance.
+- Created UML diagrams and technical documentation to support maintainability and system understanding.
+
+**Tech Stack:** Python, Flask, MySQL, HTML/CSS, JavaScript
 
 🎥**Project Video:** [Watch Here](https://drive.google.com/file/d/1F5jvf4m7fw0TtOVI0_PKrItvu4ATS-FQ/view) | **Certification:** [CommLab India Project Certificate](https://drive.google.com/file/d/1QvMOGhYy5qykiKBc7qQHKNDens5zokZ7/view?usp=sharing)
+
+---
+
+## 💼 Experience Highlights
+
+### Continual Engine Private Ltd — Analyst (AI/ML)
+- Annotated and validated 10,000+ document pages using CVAT for large-scale Document AI systems.
+- Validated AI model predictions and structured outputs against ground truth annotations.
+- Performed PDF-to-HTML and JSON validation across 500+ PDFs with reading-order verification.
+- Evaluated structured layouts including headings, lists, tables, figures, and document structures using PREP tools.
+- Supported accessibility-focused AI systems for visually impaired users through QA analysis and structured validation workflows.
 
 ---
 
@@ -164,16 +164,13 @@ I love exploring real-world datasets, uncovering hidden patterns, and designing 
 
 ## 📫 Let’s Connect
 
-I’m open to **Data Analyst · Data Scientist · ML Engineer · Python Developer** roles — **full-time, intern, or freelance**.  
-Feel free to explore my projects, certificates, and dashboards above.  
+I’m open to **Data Analyst · Data Scientist · ML Engineer** roles — **full-time or freelance**.   
 
-Let’s connect and collaborate on turning data into meaningful impact!
+Feel free to explore my projects and connect with me below.
 
 💼 [LinkedIn](https://www.linkedin.com/in/ayesha-banu-cs)  
 🐙 [GitHub](https://github.com/Ayesha24banu)  
 📧 [Email](mailto:ayesha24banu@gmail.com)  
-
-> _“Turning data into decisions, and insights into innovation.”_ 🚀  
 
 ---
 
