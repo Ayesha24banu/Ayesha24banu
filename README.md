@@ -1,21 +1,27 @@
 # 👋 Hi, I’m Ayesha Banu  
 
-🎓 **Gold Medalist in M.Sc. Computer Science**  
-💼 **Applied AI & ML Analyst | Document AI • Machine Learning • Data Analytics**  
-📍 Hyderabad, India | 🌐 Open to Full-Time & Remote Opportunities
+🎓 **M.Sc. Computer Science Gold Medalist**  
+💼 **Analyst – AI/ML | Document AI | Computer Vision | Machine Learning**  
+📍 Hyderabad, Telangana, India 
+🌐 Open to Full-Time & Remote Opportunities
 
 ---
 
 ## 🧠 About Me  
 
-I work on applied AI systems involving machine learning, document intelligence, structured output validation, and data-driven analytics. My experience includes AI model evaluation, CVAT-based annotation workflows, predictive modeling, NLP, and interactive analytics applications using Python, Scikit-learn, TensorFlow, SQL, and Power BI.
+I am an M.Sc. Computer Science Gold Medalist with professional experience in Applied AI, Machine Learning, Document AI, Computer Vision, and multimodal AI evaluation.
+
+My experience includes document annotation, AI model evaluation, ground-truth verification, document-processing validation, predictive modeling, and data analytics.
+
+I work with Python, SQL, Scikit-learn, XGBoost, Power BI, and AI-assisted development tools to build projects, evaluate AI outputs, and solve practical problems.
 
 Currently focused on:
-- Document AI & AI Evaluation
-- Machine Learning Workflows
-- NLP & Predictive Analytics
-- Data Visualization & BI
-- Streamlit-based AI Applications  
+- Document AI and Computer Vision
+- Machine Learning and Model Evaluation
+- AI Output Evaluation
+- Predictive Analytics
+- Data Visualization and Business Intelligence
+- Python-based AI Applications
 
 ---
 
@@ -25,19 +31,25 @@ Currently focused on:
 Python • SQL • Pandas • NumPy • MySQL
 
 ### 🧠 Machine Learning & Modeling
-Scikit-learn • XGBoost • Regression • Classification • Clustering • Cross-Validation • Model Evaluation
+Scikit-learn • XGBoost • Regression • Classification • Clustering • Cross-Validation • Hyperparameter Tuning • Model Evaluation
 
 ### 🤖 Deep Learning & NLP 
 TensorFlow • Keras • NLTK • TF-IDF • Sentiment Analysis • Text Preprocessing 
 
+### 🤖 Computer Vision & AI Evaluation
+CVAT • Image Annotation • Bounding Boxes • Ground-Truth Verification • Model Prediction Evaluation • Precision • Recall • F1-Score
+
 ### 💡 Document AI & Validation
-CVAT • Annotation QA • Structured Output Validation • PDF-to-HTML Validation • Reading-Order Verification • JSON Validation
+PDF-to-HTML Validation • Reading-Order Verification • Structured Output Review • PREP
 
 ### 📊 Analytics & Visualization
 EDA • Feature Engineering • Statistical Analysis • Power BI • Matplotlib • Seaborn • Excel • Power Query • Streamlit
 
-### 🛠 Tools & Platforms
-GitHub • Jupyter Notebook • VS Code • PREP Tool
+### 💻 Frameworks & Development Tools
+Flask • Streamlit • Git • GitHub • Jupyter Notebook • VS Code
+
+### ✨ AI Tools & Productivity
+ChatGPT • Claude • Google Gemini • NotebookLM • Gamma • Napkin AI
 
 ---
 
@@ -122,13 +134,27 @@ GitHub • Jupyter Notebook • VS Code • PREP Tool
 
 ## 💼 Experience Highlights
 
-### Continual Engine Private Ltd — Analyst (AI/ML)
-- Annotated and validated 10,000+ document pages using CVAT for large-scale Document AI systems.
-- Validated AI model predictions and structured outputs against ground truth annotations.
-- Performed PDF-to-HTML and JSON validation across 500+ PDFs with reading-order verification.
-- Evaluated structured layouts including headings, lists, tables, figures, and document structures using PREP tools.
-- Supported accessibility-focused AI systems for visually impaired users through QA analysis and structured validation workflows.
+### 1. Continual Engine Private Ltd - Analyst – AI/ML | Document AI & Computer Vision | Contract
+February 2026 – Present | Remote, India
 
+- Annotated and reviewed 10,000+ document pages using CVAT across Document AI datasets, covering headings, paragraphs, lists, tables, figures, and complex layouts.
+- Evaluated 200+ AI model predictions against ground-truth annotations across 2,000+ tagged elements, achieving approximately 95% tag-level accuracy.
+- Benchmarked ML-based figure detection against pdfminer and vector-based approaches across 499 PDF pages, evaluating precision, recall, and F1-score.
+- Validated PDF-to-HTML outputs for content integrity, tag hierarchy, table structures, page continuity, and reading order.
+- Verified content sequence and reading order in JSON annotation files and reviewed document outputs using PREP, PAC, and PDF Annotator.
+
+### 2. Outlier - AI Data Evaluator | Freelance
+July 2026 – September 2026 | Remote, India
+- Evaluated multimodal AI-generated outputs across text, images, audio, speech, and video using structured quality criteria.
+- Performed comparative A/B evaluations, image ranking, and reference-based assessments for prompt adherence, visual quality, realism, consistency, reference fidelity, and visual artifacts.
+- Assessed speech and audio outputs for transcription accuracy, accent consistency, emotional expression, naturalness, and multilingual text-to-speech (TTS) quality.
+
+### 3. Infoz IT Solutions - Data Science Intern
+July 2025 – October 2025 | Secunderabad, Telangana
+- Collaborated in a four-member team to develop a telecom customer churn prediction and sentiment analysis solution integrating structured CRM data with customer feedback.
+- Contributed to data preprocessing, feature preparation, and dataset organization for machine learning and customer feedback analysis.
+- Developed a four-page Power BI dashboard for customer churn analysis and segmentation and contributed to a Streamlit application for presenting model predictions and analytical insights.
+  
 ---
 
 ## 📜 Certifications  
@@ -164,7 +190,7 @@ GitHub • Jupyter Notebook • VS Code • PREP Tool
 
 ## 📫 Let’s Connect
 
-I’m open to **Data Analyst · Data Scientist · ML Engineer** roles — **full-time or freelance**.   
+I am interested in opportunities in **Machine Learning, AI/ML Engineering, AI Evaluation, and Data Science** roles — **full-time or freelance**.   
 
 Feel free to explore my projects and connect with me below.
 
@@ -176,4 +202,4 @@ Feel free to explore my projects and connect with me below.
 
 📌 *Pinned projects below showcase real-world business problems solved using data, ML, NLP, and BI tools.*
 
-⭐ If you like my projects, don’t forget to **star 🌟 and follow** for updates!
+⭐ If you like my projects, don’t forget to **star 🌟 and follow** for updates! Thank you for visiting my profile!
